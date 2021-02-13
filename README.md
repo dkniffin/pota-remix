@@ -4,13 +4,11 @@ This repo is home to a project that aims to rewrite, improve and expand upon the
 
 ## How Can I Use It?
 
-Currently, the project is still very much a work in progress. We have not decided yet what formats we'll distribute this rewrite in, but there will likely at least be a website. We plan to use [Homebrewery](https://github.com/naturalcrit/homebrewery)'s styles in conjunction with a library such as [Jekyll](https://jekyllrb.com/).
-
-To follow the changes being made here, you can click "Watch" in the top right and you'll get notifications based on the preferences in your Github account.
+Currently, the project is still very much a work in progress. You can view the raw markdown via the file navigator above. Eventually we will publish it in a more user friendly way. To follow the changes being made here, you can click "Watch" in the top right and you'll get notifications based on the preferences in your Github account.
 
 ## Campaign Markdown
 
-The text for the campaign is written in [Markdown](https://guides.github.com/features/mastering-markdown/).
+The text for the campaign is written in Homebrew flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Contributing
 
